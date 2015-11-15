@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.jboss.netty:netty:3.2.0.BETA1">
+    <CLASSES>
+      <root url="jar://D:/apache-maven-3.0.5/repo/org/jboss/netty/netty/3.2.0.BETA1/netty-3.2.0.BETA1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/apache-maven-3.0.5/repo/org/jboss/netty/netty/3.2.0.BETA1/netty-3.2.0.BETA1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/apache-maven-3.0.5/repo/org/jboss/netty/netty/3.2.0.BETA1/netty-3.2.0.BETA1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
